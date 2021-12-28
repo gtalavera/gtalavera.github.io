@@ -10,22 +10,24 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Resumen
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Estudié eonomía en la Universidad del Pacífico, también administración pública en The Maxwell School y territorio y población en la UAB. Dirigí techo.org/pe y trabajé diseñando políticas y gstionando programas en los ministerios de Desarrollo e Inclusión Social, de Educación y de Trabajo. Aprendí R más tarde de lo que hubiera querido. Fundé desarro.io con un grupo de amigs. Me gustan los mapas, y la visualización de datos.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
+## CV
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Proyectos
+
+### Mapas  
+- [Personas mayores de 60 años en Lima](https://gtalavera.github.io/mayoresde60lima.html)
+- [Personas mayores de 60 años en otras ciudades peruanas](https://gtalavera.github.io/mayoresde60ciudades.html)
+- Publiqué un [hilo de twitter](https://twitter.com/gonzalotalavera/status/1240100837776666624) con algunos comentarios a los dos mapas anteriores
+
+### Visualizaciones con desarro.io
+- [Análisis de discuros inaugurales de los últimos presidentes](https://twitter.com/desarro_io/status/1420530624977416192)
+- [Participación de mujeres en gabinetes ministeriales entre 2001 y 2021](https://twitter.com/desarro_io/status/1420980995092791296), por [Carla Solís](https://github.com/ccsuehara)
+- [Primers ministres de los últimos 20 años](https://twitter.com/desarro_io/status/1431356523779919874)
