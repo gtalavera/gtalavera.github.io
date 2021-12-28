@@ -1,0 +1,26 @@
+name: Gonzalo Talavera Forlin
+output_dir: '.'
+navbar:
+  title: Gonzalo Talavera Forlin
+  type: inverse
+  left:
+  - text: About
+    href: https://desarro.io/es/#equipo
+  - text: "Papers / Talks"
+    href: com.html
+
+  right:
+  - icon: fa-envelope-o fa
+    href: mailto:gonzalo@desarro.io
+  - icon: fa-github fa
+    href: https://github.com/gtalavera
+  - icon: fa-twitter fa
+    href: https://twitter.com/gonzalotalavera
+  - icon: fa-linkedin fa
+    href: https://www.linkedin.com/in/gonzalotalavera/
+output:
+  html_document:
+    theme: readable
+    highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
