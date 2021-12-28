@@ -4,20 +4,21 @@ navbar:
   title: Gonzalo Talavera Forlin
   type: inverse
   left:
-  - text: About
+  - text: Sobre mi
     href: https://desarro.io/es/#equipo
-  - text: "Papers / Talks"
-    href: com.html
+  - text: "desarro.io"
+    href: https://desarro.io/
 
   right:
-  - icon: fa-envelope-o fa
-    href: mailto:gonzalo@desarro.io
-  - icon: fa-github fa
-    href: https://github.com/gtalavera
   - icon: fa-twitter fa
     href: https://twitter.com/gonzalotalavera
+  - icon: fa-github fa
+    href: https://github.com/gtalavera
   - icon: fa-linkedin fa
     href: https://www.linkedin.com/in/gonzalotalavera/
+  - icon: fa-envelope-o fa
+    href: mailto:gonzalo@desarro.io
+
 output:
   html_document:
     theme: readable
