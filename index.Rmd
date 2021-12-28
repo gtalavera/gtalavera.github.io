@@ -6,28 +6,25 @@ output:
       in_header: cover.html
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Resumen
-
-Estudié eonomía en la Universidad del Pacífico, también administración pública en The Maxwell School y territorio y población en la UAB. Dirigí techo.org/pe y trabajé diseñando políticas y gstionando programas en los ministerios de Desarrollo e Inclusión Social, de Educación y de Trabajo. Aprendí R más tarde de lo que hubiera querido. Fundé desarro.io con un grupo de amigs. Me gustan los mapas, y la visualización de datos.
-
-## CV
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
 ## Proyectos
-
 ### Mapas  
 - [Personas mayores de 60 años en Lima](https://gtalavera.github.io/mayoresde60lima.html)
 - [Personas mayores de 60 años en otras ciudades peruanas](https://gtalavera.github.io/mayoresde60ciudades.html)
 - Publiqué un [hilo de twitter](https://twitter.com/gonzalotalavera/status/1240100837776666624) con algunos comentarios a los dos mapas anteriores
 
-### Visualizaciones con desarro.io
+### Visualizaciones con [desarro.io](https://desarro.io/es/)
 - [Análisis de discuros inaugurales de los últimos presidentes](https://twitter.com/desarro_io/status/1420530624977416192)
 - [Participación de mujeres en gabinetes ministeriales entre 2001 y 2021](https://twitter.com/desarro_io/status/1420980995092791296), por [Carla Solís](https://github.com/ccsuehara)
-- [Primers ministres de los últimos 20 años](https://twitter.com/desarro_io/status/1431356523779919874)
+- [Primers ministres de los últimos 20 años](https://twitter.com/desarro_io/status/1431356523779919874), por [Ioanna Gallo](https://www.linkedin.com/in/ioannagallojimenez/) y [Luis Eduardo San Martín](https://github.com/luisesanmartin)
+
+## Resumen
+Estudié eonomía en la Universidad del Pacífico, también administración pública en The Maxwell School y territorio y población en la UAB. Dirigí techo.org/pe y trabajé diseñando políticas y gstionando programas en los ministerios de Desarrollo e Inclusión Social, de Educación y de Trabajo. Aprendí R más tarde de lo que hubiera querido. Fundé desarro.io con un grupo de amigs. Me gustan los mapas, y la visualización de datos.
+
+## CV
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+
+Imagen de portada: Mosaicos generados con la herramienta "[Escher-like spiral tiles](Mosaicos generados en https://isohedral.ca/escher-like-spiral-tilings/, por Craig S. Kaplan
+)" de Craig S. Kaplan 
