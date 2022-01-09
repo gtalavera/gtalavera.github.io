@@ -1,10 +1,10 @@
 name: Gonzalo Talavera Forlin
 output_dir: '.'
 navbar:
-  title: Gonzalo Talavera Forlin
+  title: gonzalo talavera forlin
   type: inverse
   left:
-  - text: Sobre mi
+  - text: sobre mi
     href: https://desarro.io/es/#equipo
   - text: "desarro.io"
     href: https://desarro.io/
