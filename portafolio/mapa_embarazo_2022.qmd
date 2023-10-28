@@ -1,6 +1,6 @@
 ---
 title: "Tablero del Mapa del embarazo y la maternidad adolescentes 2022"
-subtitle: "Tablero en Shiny para UNFPA Perú"
+subtitle: "Indicadores oficiales desagregados a nivel departamental o provincial"
 description: "Tablero en Shiny para UNFPA Perú"
 # author: "Gonzalo"
 image: cover_mapaea.gif
