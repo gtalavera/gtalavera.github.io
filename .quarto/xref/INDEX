@@ -1,0 +1,35 @@
+{
+  "index.qmd": {
+    "index.html": "194f1768"
+  },
+  "about.qmd": {
+    "about.html": "4f07523c"
+  },
+  "servicios.qmd": {
+    "servicios.html": "cd6f2169"
+  },
+  "portafolio/calles_de_mujeres.qmd": {
+    "calles_de_mujeres.html": "85a1527e"
+  },
+  "portafolio/tablero_cerf.qmd": {
+    "tablero_cerf.html": "d8c802a5"
+  },
+  "portafolio/idsmh.qmd": {
+    "idsmh.html": "46d01177"
+  },
+  "portafolio.qmd": {
+    "portafolio.html": "7b038b25"
+  },
+  "portafolio/mapa_embarazo_2022.qmd": {
+    "mapa_embarazo_2022.html": "cd9e140b"
+  },
+  "portafolio/mayores_de_60_lima.qmd": {
+    "mayores_de_60_lima.html": "0eabce56"
+  },
+  "portafolio/mayores_de_60_ciudades.qmd": {
+    "mayores_de_60_ciudades.html": "b354d8ba"
+  },
+  "archive_v1/index.Rmd": {
+    "index.html": "05bd3587"
+  }
+}

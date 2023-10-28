@@ -1,0 +1,16 @@
+{
+  "hash": "aa6dd8cd68c50230c16fd393f07f2946",
+  "result": {
+    "markdown": "---\ntitle: \"Gonzalo Talavera Forlin\"\noutput: \n  html_document:\n    includes:\n      in_header: cover.html\n---\n\n::: {.cell}\n\n:::\n\n\nEstudié economía en la [Universidad del Pacífico](https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/economia),  administración pública en [The Maxwell School of Syracuse University](https://www.maxwell.syr.edu/paia/masters-in-public-administration/) y estudios territoriales y de la población en la [UAB](https://www.uab.cat/departament/geografia/). Dirigí [TECHO.org](techo.org/pe) y trabajé diseñando políticas y gestionando programas en los ministerios de Desarrollo e Inclusión Social, de Educación y de Trabajo. Aprendí R más tarde de lo que hubiera querido. Fundé desarro.io con un grupo de amigs. Me gustan los mapas y la visualización de datos.\n\n## Proyectos\nMapas:  \n\n- [Personas mayores de 60 años en Lima](https://gtalavera.github.io/mayoresde60lima.html)\n- [Personas mayores de 60 años en otras ciudades peruanas](https://gtalavera.github.io/mayoresde60ciudades.html)\n- Publiqué un [hilo de twitter](https://twitter.com/gonzalotalavera/status/1240100837776666624) con algunos comentarios a los dos mapas anteriores\n\nVisualizaciones con [desarro.io](https://desarro.io/es/):  \n\n- [Análisis de discuros inaugurales de los últimos presidentes](https://twitter.com/desarro_io/status/1420530624977416192)\n- [Participación de mujeres en gabinetes ministeriales entre 2001 y 2021](https://twitter.com/desarro_io/status/1420980995092791296), con [Carla Solís](https://github.com/ccsuehara)\n- [Primeres ministres de los últimos 20 años](https://twitter.com/desarro_io/status/1431356523779919874), con [Ioanna Gallo](https://www.linkedin.com/in/ioannagallojimenez/) y [Luis Eduardo San Martín](https://github.com/luisesanmartin)\n\n## CV\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/cv-1.png){width=672}\n:::\n:::\n\n\n  \n  \n  \nImagen de portada: Mosaicos generados con la herramienta \"[Escher-like spiral tiles](Mosaicos generados en https://isohedral.ca/escher-like-spiral-tilings/, por Craig S. Kaplan)\" de Craig S. Kaplan \n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
