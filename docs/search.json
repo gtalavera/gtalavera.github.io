@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "servicios.html",
+    "href": "servicios.html",
+    "title": "Servicios",
+    "section": "",
+    "text": "Muestra el estado de avance de los KPI de tus proyectos o pon a disposición los datos de tus estudios para que tu audiencia pueda interactuar fácilmente con ellos, descubrir tendencias o profundizar en las particularidades de un territorio. Puedes incluir elementos interactivos como mapas, tablas, gráficos y mucho más.\n\n\n\n\n\n\n\n\nConvierte extensos reportes de investigación o resultados de trabajo de campo en documentos breves con visualizaciones estáticas efectivas que te ayuden a difundir tus hallazgos o recomendaciones de política.\n\n\n\n\n\n\n\n\nSintetiza tus hallazgos en gráficos efectivos que transmitan los mensajes más importantes de tus datos para tu público objetivo. Usa estos gráficos estáticos o animados para tus publicaciones en redes sociales o como insumos para tus presentaciones o pitchs."
+  },
+  {
+    "objectID": "portafolio/mapa_embarazo_2022.html",
+    "href": "portafolio/mapa_embarazo_2022.html",
+    "title": "Tablero del Mapa del embarazo y la maternidad adolescentes 2022",
+    "section": "",
+    "text": "Cada día ocurren 4 nacimientos en niñas de 10 a 14 años en el Perú. Colaboramos con el @unfpaperu en analizar y visualizar los datos oficiales que muestran la situación del embarazo adolescente.\nPuedes explorar el tablero interactivo en la web del unfpa\nPublicado en:\n\n\n\n\nhttps://twitter.com/UNFPAPeru/status/1574402928139460610"
+  },
+  {
+    "objectID": "portafolio/tablero_cerf.html",
+    "href": "portafolio/tablero_cerf.html",
+    "title": "Monitoreo del proyecto Salvando vidas",
+    "section": "",
+    "text": "Este tablero muestra el avance en los indicadores clave del proyecto “Salvando vidas” del UNFPA Perú. Los datos son actualizados por funcionarios del proyecto en programas de uso común, y sirven como insumo para los elementos gráficos del tablero.\nHaz click en la imagen para ver el tablero en el entorno del UNFPA, o sigue bajando para explorar la versión fuera de este.\n\n\n\n\n\nVersión fuera del entorno del UNFPA:"
+  },
+  {
+    "objectID": "portafolio/idsmh.html",
+    "href": "portafolio/idsmh.html",
+    "title": "Tablero del Índice del desarrollo social de la mujer y el hombre",
+    "section": "",
+    "text": "Por encargo de centrum think (pucp) desarrollamos un tablero para mostrar los resultados del Índice del Desarrollo Social de la Mujer y el Hombre en Países de América Latina 2022 (IDSMH), elaborado por luis del carpio y beatrice avolio.\nEl IDSMH mide la situación actual del acceso a recursos por parte de mujeres y hombres y abarca 191 territorios subnacionales de 8 países de América Latina. Los datos permiten comparar los indicadores entre los estados, departamentos y provincias de los distintos países, y permiten también identificar las brechas en el desarrollo entre hombres y mujeres.\nPuedes explorar el tablero publicado en la web centrum think haciendo click en la siguiente imagen, o continuar bajando para explorar el tablero por sí solo."
+  },
+  {
+    "objectID": "portafolio/mayores_de_60_ciudades.html",
+    "href": "portafolio/mayores_de_60_ciudades.html",
+    "title": "Mayores de 60 años en manzanas de ciudades peruanas selecionadas",
+    "section": "",
+    "text": "A continuación del mapa de Mayores de 60 años en manzanas de Lima, produje mapas similares para otras ciudades principales del Perú."
+  },
+  {
+    "objectID": "portafolio/mayores_de_60_lima.html",
+    "href": "portafolio/mayores_de_60_lima.html",
+    "title": "Mayores de 60 años en manzanas de Lima",
+    "section": "",
+    "text": "Este fue uno de mis primeros trabajos haciendo mapas. Al inicio de la pandemia era imporante ubicar en el territorio las zonas con mayor proporción de población vulnerable. Uno de estos grupos era el de mayores de 60 años. Utilizando datos del Censo de Población y Vivienda 2017 calculé la proporción de personas mayores de 60 años por manzana y publiqué los resultados en un mapa interactivo."
+  },
+  {
+    "objectID": "portafolio/calles_de_mujeres.html",
+    "href": "portafolio/calles_de_mujeres.html",
+    "title": "De qué mujeres hablan nuestras calles",
+    "section": "",
+    "text": "Este es un trabajo del equipo de desarro.io. La idea y el prototipo en Python son de carla solis. El desarrollo web es de gonzalo talavera forlin. Los textos, análisis y verificación de datos son de ioanna gallo, Daniela Velit y Gonzalo. Las imágenes son de carlos julio san martín. También participaron Luis Eduardo San Martín y Marcy Castro."
+  },
+  {
+    "objectID": "portafolio.html",
+    "href": "portafolio.html",
+    "title": "Portafolio",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nMonitoreo del proyecto Salvando vidas\n\n\nTablero de monitoreo de avances en indicadores clave\n\n\nDasboard en Shiny para el UNFPA Perú\n\n\n\n\n\n\nOct 28, 2023\n\n\n\n\n\n\n  \n\n\n\n\nTablero del Índice del desarrollo social de la mujer y el hombre\n\n\nIndicadores de desarrollo social desagregados a nivel subnacional para ocho países de América Latina\n\n\nTablero en Shiny para Centrum Pucp\n\n\n\n\n\n\nMar 22, 2023\n\n\n\n\n\n\n  \n\n\n\n\nTablero del Mapa del embarazo y la maternidad adolescentes 2022\n\n\nIndicadores oficiales desagregados a nivel departamental o provincial\n\n\nTablero en Shiny para UNFPA Perú\n\n\n\n\n\n\nSep 26, 2022\n\n\n\n\n\n\n  \n\n\n\n\nDe qué mujeres hablan nuestras calles\n\n\nNombres de mujeres en calles de lima y callao\n\n\nData story en colaboración con desarro.io\n\n\n\n\n\n\nMar 8, 2022\n\n\n\n\n\n\n  \n\n\n\n\nMayores de 60 años en manzanas de Lima\n\n\nMapa para identificar la proporción de mayores de 60 años en la ciudad en tiempos de COVID\n\n\nMapa a nivel de manzanas con la proporción de adultos mayores\n\n\n\n\n\n\nMar 17, 2020\n\n\n\n\n\n\n  \n\n\n\n\nMayores de 60 años en manzanas de ciudades peruanas selecionadas\n\n\nMapa para identificar la proporción de mayores de 60 años en ciudades del Perú en tiempos de COVID\n\n\nMapa a nivel de manzanas con la proporción de adultos mayores\n\n\n\n\n\n\nMar 16, 2020\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Consultor independiente",
+    "section": "",
+    "text": "Ayudo a organizaciones que trabajan en políticas públicas a usar sus datos para encontrar y comunicar con efectividad y rigurosidad los mensajes más importantes que se puedan obtener de ellos. Analizo datos y produzco visualizaciones que acercar contenidos complejos a públicos con distintos niveles de especialización."
+  },
+  {
+    "objectID": "index.html#dashboards",
+    "href": "index.html#dashboards",
+    "title": "Consultor independiente",
+    "section": "Dashboards",
+    "text": "Dashboards"
+  },
+  {
+    "objectID": "index.html#briefs",
+    "href": "index.html#briefs",
+    "title": "Consultor independiente",
+    "section": "Briefs",
+    "text": "Briefs"
+  },
+  {
+    "objectID": "index.html#visualizaciones",
+    "href": "index.html#visualizaciones",
+    "title": "Consultor independiente",
+    "section": "Visualizaciones",
+    "text": "Visualizaciones"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Gonzalo Talavera Forlin",
+    "section": "",
+    "text": "Acerca de Gonzalo"
+  },
+  {
+    "objectID": "about.html#educación",
+    "href": "about.html#educación",
+    "title": "Gonzalo Talavera Forlin",
+    "section": "Educación",
+    "text": "Educación\nUniversidad Autónoma de Barcelona | Barcelona, ES\nMaster en estudios territoriales y de la población | 2019\nThe Maxwell School at Syracuse University | Syracuse, NY\nMaster of Public Administration | 2015\nUniversidad del Pacífico | Lima, PE\nBachiller en Economía | 2004"
+  },
+  {
+    "objectID": "about.html#experiencia",
+    "href": "about.html#experiencia",
+    "title": "Gonzalo Talavera Forlin",
+    "section": "Experiencia",
+    "text": "Experiencia\ndesarro.io\nDirector ejecutivo | 2020 - a la fecha\nMinisterio de Trabajo y Promoción del Empleo - Perú\nGerente de operaciones del Programa Nacional para la Empleabilidad| 2021 - 2022\nMinisterio de Desarrollo e Inclusión Social - Perú\nCoordinador de diseño de políticas | 2017 - 2018 Asesor de la Dirección Ejecutiva del Programa Juntos | 2012 - 2014\nUniversidad de Ingeniería y Tecnología\nProfesor en el Departamento de humanidades | 2017 - 2021\nMinisterio de Educación\nCoordinador de Rutas Solidarias: Bicicletas rurales para llegar a la escuela | 2016 - 2017\nAsesor de la Dirección General de Educación Superior y Técnico-Productiva | 2014 - 2014\nTecho.org\nMiembro de la junta directiva | 2017 - a la fecha\nDirector regional para países andinos | 2011 - 2012\nSubdirector para América Latina y el Caribe | 2008 - 2011\nDirector social - Perú | 2006 - 2008"
+  },
+  {
+    "objectID": "portafolio/idsmh.html#versión-por-sí-sola",
+    "href": "portafolio/idsmh.html#versión-por-sí-sola",
+    "title": "Tablero del Índice del desarrollo social de la mujer y el hombre",
+    "section": "Versión por sí sola",
+    "text": "Versión por sí sola\n\n\nEl Índice del Desarrollo Social de la Mujer y el Hombre en Países de América Latina 2022 (IDSMH) fue presentado aquí:"
+  }
+]
