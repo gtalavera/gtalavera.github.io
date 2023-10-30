@@ -5,6 +5,9 @@
     ],
     "portafolio.qmd": [
       "portafolio/*.qmd"
+    ],
+    "s_portafolio.qmd": [
+      "portafolio/*.qmd"
     ]
   }
 }

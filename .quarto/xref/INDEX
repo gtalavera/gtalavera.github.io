@@ -31,5 +31,14 @@
   },
   "archive_v1/index.Rmd": {
     "index.html": "05bd3587"
+  },
+  "s_servicios.qmd": {
+    "s_servicios.html": "34b18be8"
+  },
+  "s_portafolio.qmd": {
+    "s_portafolio.html": "bfc54580"
+  },
+  "s_about.qmd": {
+    "s_about.html": "b7ca746e"
   }
 }

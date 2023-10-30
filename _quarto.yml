@@ -11,11 +11,11 @@ website:
     search: true
     logo: "/images/gtf_headshot.jpeg"
     left:
-      - href: about.qmd
+      - href: s_about.qmd
         text: Bio
-      - href: servicios.qmd
+      - href: s_servicios.qmd
         text: Servicios
-      - href: portafolio.qmd
+      - href: s_portafolio.qmd
         text: Portafolio
     right:
       - href: https://desarro.io/es/
