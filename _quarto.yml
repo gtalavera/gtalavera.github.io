@@ -4,6 +4,7 @@ project:
 
 website:
   title: "<span style=font-size:x-large>Gonzalo Talavera Forlin</span><br><span style=font-size:small>Visualización de datos para politicas públicas</span>"
+  favicon: "/images/desarroio_favicon.png"
   navbar:
     background: "#5297AC"
     pinned: true
@@ -27,7 +28,7 @@ website:
         href: https://github.com/gtalavera
       - icon: linkedin
         href: https://www.linkedin.com/in/gonzalotalavera/
-  page-footer: "Esta web fue hecha por mi, usando quarto. 2023" 
+  page-footer: "Esta web fue hecha por mi, usando Quarto. 2023" 
   google-analytics: "G-Z7H5N2FX19"
 
 format:
