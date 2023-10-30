@@ -10,12 +10,16 @@ website:
     search: true
     logo: "/images/gtf_headshot.jpeg"
     left:
-      - href: about.qmd  # Added "Gonzalo" navigation item
+      - href: about.qmd
         text: Bio
-      - href: servicios.qmd  # Added "Servicios" navigation item
+      - href: servicios.qmd
         text: Servicios
-      - href: portafolio.qmd  # Added "Proyectos" navigation item
+      - href: portafolio.qmd
         text: Portafolio
+    right:
+      - href: https://desarro.io/es/
+        text: "<img src='/images/logo_desarroio_blanco.png' alt='logo desarro.io' style='height: 25px; vertical-align: middle; margin-right: 5px;'>"
+        target: _blank
     tools:
       - icon: twitter
         href: https://twitter.com/gonzalotalavera
