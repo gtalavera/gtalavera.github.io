@@ -30,7 +30,9 @@
   margin-bottom:0px;
 }
 
-
+.navbar-brand-container{
+  line-height: 1;
+}
 
 .img-fluid{
   margin-bottom:20px;
