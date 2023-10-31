@@ -39,7 +39,8 @@
 }
 
 .service-image{
- height:40px; 
+ height:35px;
+ float: right;
 }
 
 .card-container {
@@ -56,4 +57,30 @@
 
 .card-img{
   vertical-align: top;
+}
+
+/* Media queries for different screen widths */
+
+@media (max-width: 900px) {
+  h3 {
+    font-size: 1rem;
+  }
+  .service-image{
+    height:25px;
+    float: right;
+  }
+}
+
+@media (max-width: 767px) {
+  h3 {
+    font-size: 1.2rem;
+  }
+  .service-card {
+    flex: 0 0 calc(100% - 20px); /* Distribute cards equally with 20px gap */
+    max-width: calc(100% - 20px); /* Set the maximum width for each card */
+  }
+  .service-image{
+    height:25px;
+    float: right;
+  }
 }

@@ -37,9 +37,7 @@ Ayudo a organizaciones que trabajan en políticas públicas a utilizar sus datos
 ::: card-container
 ::: service-card
 ::: card-header
-## Dashboards
-
-![](images/table-columns-solid.svg){.service-image}
+### Dashboards ![](images/table-columns-solid.svg){.service-image}
 :::
 
 ::: card-body
@@ -49,9 +47,7 @@ Muestra el estado de avance de los KPI de tus proyectos o pon a disposición los
 
 ::: service-card
 ::: card-header
-## Briefs
-
-![](images/file-lines-regular.svg){.service-image}
+### Briefs ![](images/file-lines-regular.svg){.service-image}
 :::
 
 ::: card-body
@@ -61,9 +57,7 @@ Convierte extensos reportes de investigación o resultados de trabajo de campo e
 
 ::: service-card
 ::: card-header
-## Visualizaciones
-
-![](images/chart-column-solid.svg){.service-image}
+### Visualizaciones ![](images/chart-column-solid.svg){.service-image}
 :::
 
 ::: card-body
