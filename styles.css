@@ -15,8 +15,7 @@
 }
 
 .column-screen{
-  margin-bottom:30px;
-  padding: 50px;
+  padding: 50px 50px 20px 50px; 
 }
 
 .tagline{
@@ -36,6 +35,10 @@
 
 .img-fluid{
   margin-bottom:20px;
+}
+
+.services{
+  margin-bottom: 30px;
 }
 
 .service-image{
@@ -58,7 +61,11 @@
   box-shadow: 5px 5px 5px #808080;
 }
 
-.level3{
+#proyectos-destacados{
+  margin-bottom:30px;
+}
+
+.level3, .card-header{
   background: #E6E0CF;
 }
 

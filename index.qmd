@@ -21,7 +21,7 @@ listing:
     fields: [image, title, categories]
 ---
 
-::: {.column-screen .tagline}
+:::::: {.column-screen .tagline}
 ::: {.column-body layout="[ 80, 20 ]"}
 # Consultor independiente {style="margin-top: 0px;"}
 
@@ -29,13 +29,13 @@ Ayudo a organizaciones que trabajan en políticas públicas a utilizar sus datos
 
 ![](images/gtf.jpeg){style="border-radius: 10px;"}
 :::
-:::
+::::::
 
-::: {#services .services}
+:::::: {#services .services}
 # Servicios
 
-::: card-container
-::: service-card
+::::::::: card-container
+:::::: service-card
 ::: card-header
 ### Dashboards ![](images/table-columns-solid.svg){.service-image}
 :::
@@ -43,9 +43,9 @@ Ayudo a organizaciones que trabajan en políticas públicas a utilizar sus datos
 ::: card-body
 Muestra el estado de avance de los KPI de tus proyectos o pon a disposición los datos de tus estudios para que tu audiencia pueda interactuar fácilmente con ellos, descubrir tendencias o profundizar en las particularidades de un territorio.
 :::
-:::
+::::::
 
-::: service-card
+:::::: service-card
 ::: card-header
 ### Briefs ![](images/file-lines-regular.svg){.service-image}
 :::
@@ -53,9 +53,9 @@ Muestra el estado de avance de los KPI de tus proyectos o pon a disposición los
 ::: card-body
 Convierte extensos reportes de investigación o resultados de trabajo de campo en documentos breves con visualizaciones estáticas o interactivas efectivas que te ayuden a difundir tus hallazgos y recomendaciones de política.
 :::
-:::
+::::::
 
-::: service-card
+:::::: service-card
 ::: card-header
 ### Visualizaciones ![](images/chart-column-solid.svg){.service-image}
 :::
@@ -63,20 +63,20 @@ Convierte extensos reportes de investigación o resultados de trabajo de campo e
 ::: card-body
 Sintetiza tus hallazgos en gráficos efectivos que transmitan los mensajes más importantes de tus datos para tu público objetivo. Usa estos gráficos estáticos o animados para tus publicaciones en redes sociales o como insumos para tus presentaciones o pitchs.
 :::
-:::
-:::
-:::
+::::::
+:::::::::
+::::::::::::
 
 # Proyectos destacados
 
 ::: {#portafolio}
 :::
 
-::: {.column-screen .gallery style="margin-top:0px;"}
+::: {.column-screen .gallery style="margin-top:0px;padding-top:0px;padding-bottom:0px"}
 # Galería
 :::
 
-::: {.column-screen .gallery layout="[[1, 1, 1, 1]]"}
+::: {.column-screen .gallery layout="[[1, 1, 1, 1]]" style="padding-top:10px"}
 ![](gallery/1_1_centrum_reactable.gif){.lightbox style="width:100%;" group="galeria" description="Las tablas con Reactable se pueden filtrar y ordernar, y pueden incluir minigráficos o imágenes en sus celdas."} ![](gallery/mapa-popups.gif){.lightbox style="width:100%;" group="galeria" description="Los mapas con Leaflet tienen popups que muestran información adicional y pueden enlazar a contenido externo."} ![](gallery/1_2_seguros_map.png){.lightbox group="galeria" description="Los datos censales permiten elaborar mapas a nivel de manzana."} ![](gallery/1_3_small_multiples.png){.lightbox group="galeria" description="'Small multiples' sobre niveles de pobreza en el Perú, con datos de la Encuesta nacional de hogares."}
 
 ![](gallery/2_1_centrum_map.gif){.lightbox group="galeria" description="Los mapas en Leaflet pueden mostrar contenido emergente y se pueden explorar."}
