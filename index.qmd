@@ -4,7 +4,7 @@ filters:
    - lightbox
 lightbox:
   effect: fade
-  desc-position: right
+  desc-position: bottom
   loop: false
   css-class: galeria
 toc: false

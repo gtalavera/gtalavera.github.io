@@ -66,6 +66,12 @@
   vertical-align: top;
 }
 
+.gslide-description .gslide-desc{
+  background-color: #5297AC !important;
+  color: white !important;
+  padding: 10px !important;
+}
+
 /* Media queries for different screen widths */
 
 @media (max-width: 900px) {
