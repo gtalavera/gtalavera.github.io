@@ -12,7 +12,7 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/gtalavera
-    - icon: github
+    - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/gonzalotalavera/
 toc: false
