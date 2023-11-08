@@ -11,7 +11,7 @@
     "href": "portafolio/mapa_embarazo_2022.html",
     "title": "Tablero del Mapa del embarazo y la maternidad adolescentes 2022",
     "section": "",
-    "text": "Cada día ocurren 4 nacimientos en niñas de 10 a 14 años en el Perú. Colaboramos con el @unfpaperu en analizar y visualizar los datos oficiales que muestran la situación del embarazo adolescente.\nPuedes explorar el tablero interactivo en la web del unfpa\nPublicado en:\n\n\n\n\nhttps://twitter.com/UNFPAPeru/status/1574402928139460610"
+    "text": "Cada día ocurren 4 nacimientos en niñas de 10 a 14 años en el Perú.\nComo parte de sus esfuerzos por poner fin a las muertes maternas evitables y a las necesidades insatisfechas de planificación familiar, el UNFPA nos pidió un dashboard para poner a disposición de gobiernos regionales y locales, prensa y público en general, los datos oficiales de 2022 que muestran la situación del embarazo adolescente.\nPuedes explorar el tablero interactivo en la web del unfpa haciendo click en la imagen siguiente, o interactuar con la versión directa del tablero más abajo."
   },
   {
     "objectID": "portafolio/tablero_cerf.html",
@@ -180,5 +180,12 @@
     "title": "Una mirada a los mensajes presidenciales",
     "section": "",
     "text": "El mensaje presidencial de Pedro Castillo en el bicentenario del Perú es el 5to discurso inaugural más largo desde 1963. Tiene ~7mil palabras, es el primero en decir “afroperuanos” y es el que más veces ha dicho la palabra “constitución”.\n\n\n\n\n\nLos mensajes más largos: Castillo usó ~7mil palabras. Lo superaron García (2veces), que tuvo discursos siempre por encima de 10mil y los gobiernos militares que también tuvieron discursos de gran longitud (&gt;8000).\nLos mensajes más breves: el de Vizcarra, con 1384 palabras. Los dos gobiernos de transición son los siguientes más cortos, ambos con menos de 2000. Hasta hoy parecía que con el tiempo los discursos tendían a hacerse más breves. Castillo casi triplicó a los últimos.\nLas palabras que más usó #pedrocastillo fueron “peruana/o”, “salud”, “pueblo” y “gobierno”. En la imagen el top10 de su discurso:\n\n\n\n\n\nTodas las palabras en el top10 de #pedrocastillo están en el top10 de algún otro presidente. Comparamos el top10 de palabras más usadas de los distintos presidentes desde 1963.\n\n\n\n\n\n¿Qué discursos usaron palabras similares? Vemos, que Castillo usa palabras similares a las de Humala, Toledo y el 2do de García.\n\n\n\n\n\nMientras que existe cercanía entre las palabras usadas por los gobiernos anteriores al primero de Fujimori. Destaca la distancia de Sagasti, que en su discurso utilizó palabras muy distintas de los demás.\nLo nuevo: Castillo ha sido el primer presidente (al menos desde 1963) en mencionar “afroperuano”, “shipibo”, “wari”, “tawantinsuyo”. También ha sido el primero en mencionar la inmigración japonesa y la china.\nAunque Tupac Amaru ya habia sido mencionado en discursos inaugurales por Morales Bermudez y por Alan Garcia en su primer gobierno, Castillo es el primero en mencionar a Micaela Bastidas.\nCastillo ha sido también el presidente que más veces ha usado la palabra “constitución”. Y el que más veces dijo la palabra Salud.\n\n\n\n\n\n\n\n\n\n\nFinalmente, algunos de los hallazgos más curiosos están en esta imagen que muestra de qué habló más cada presidente.\n\n\n\n\n\nCastillo habló de “millones de soles” y PPK de “el año 2021”. Vizcarra, Humala, Toledo y Morales Bermúdez hablaron de “todos los peruanos”; Fujimori(1) habló de “los derechos humanos”, y Velasco de “el gobierno revolucionario”.\nEste proyecto fue trabajado por @odaltomate @luiseee89 @ioannagallo @cjmsma @gonzalotalavera, Daniela Velit, Yvana Novoa y José Luis Flor\nLos discursos fueron descargados de la web del congreso. Todos los análisis se realizaron en Python. Para los conteos de palabras realizamos previamente normalización y lematización."
+  },
+  {
+    "objectID": "portafolio/mapa_embarazo_2022.html#versión-directa-del-tablero",
+    "href": "portafolio/mapa_embarazo_2022.html#versión-directa-del-tablero",
+    "title": "Tablero del Mapa del embarazo y la maternidad adolescentes 2022",
+    "section": "Versión directa del tablero",
+    "text": "Versión directa del tablero"
   }
 ]
