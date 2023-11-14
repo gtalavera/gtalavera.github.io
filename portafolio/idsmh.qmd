@@ -12,7 +12,7 @@ categories:
   - Dashboards
 ---
 
-Por encargo de [Centrum Think (PUCP)](https://centrumthink.pucp.edu.pe/) desarrollamos un tablero para mostrar los resultados del Índice del Desarrollo Social de la Mujer y el Hombre en Países de América Latina 2022 (IDSMH), elaborado por Luis del Carpio y Beatrice Avolio.
+Por encargo de [Centrum Think (PUCP)](https://centrumthink.pucp.edu.pe/) desarrollamos, junto a [Daniela Velit](https://www.linkedin.com/in/daniela-velit-bassino/), un tablero para mostrar los resultados del Índice del Desarrollo Social de la Mujer y el Hombre en Países de América Latina 2022 (IDSMH), elaborado por Luis del Carpio y Beatrice Avolio.
 
 El IDSMH mide la situación actual del acceso a recursos por parte de mujeres y hombres, y abarca 191 territorios subnacionales de 8 países de América Latina. Los datos permiten comparar los indicadores entre los estados, departamentos, regiones o provincias de los distintos países, y permiten también identificar las brechas en el desarrollo entre hombres y mujeres.
 
